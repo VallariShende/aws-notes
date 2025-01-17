@@ -4,7 +4,6 @@
 - Virtualization uses software to create an abstraction layer over computer hardware called hypervisor, enabling the division of a single computer's hardware components—such as processors, memory and storage—into multiple virtual machines (VMs).
 - Each VM runs its own operating system (OS) and behaves like an independent computer, even though it is running on just a portion of the actual underlying computer hardware.
 
-
 ![image](https://github.com/user-attachments/assets/d8fd73a9-e7da-4ed8-8dba-ac154f974cd2)
 
 - Host Machine:  The physical computer on which the virtual machine (VM) is created and run..
