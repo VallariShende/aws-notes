@@ -8,7 +8,6 @@
 # Cloud Service Providers-
 - Cloud computing is in huge demand so, big organization providing the Cloud services are called as Cloud Service Providers.
 - Amazon AWS, Microsoft Azure, Google Cloud, Alibaba cloud, IBM cloud, Oracle cloud and VMware Cloud etc. are some Cloud Computing service Provider.
-
 # On-premises VS Cloud-
 
 | Feature                  | On-Premises                                 | Cloud Computing                           |
